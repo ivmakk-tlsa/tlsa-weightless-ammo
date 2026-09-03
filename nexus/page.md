@@ -21,5 +21,5 @@ Tracks the mod's Nexus page details. Fill the id and URL after the page is creat
 
 - Short description: `short-description.txt` (the draft-dialog field, 350-char limit).
 - Full description: `description.bbcode` (paste into the editor's raw BBCode mode).
-- Thumbnail: `images/thumbnail.jpg` (1300x372 banner). Set as the page thumbnail.
-- Gallery images: `images/01-before-vanilla-weight.jpg` and `images/02-after-weight-zero.jpg` (1920x1080 before/after pair).
+- Background: `images/banner.jpg` (1300x372). Set as the mod page background.
+- Gallery images: `images/01-tlsa_wa_thumb.jpg`, `images/02-tlsa_wa_before.jpg`, `images/03-tlsa_wa_after.jpg` (1920x1080). Pick `01-tlsa_wa_thumb.jpg` as the mods-grid thumbnail.
