@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!-- Shared settings and the common BepInEx/Il2Cpp references live in
+       ../../Directory.Build.props. This file only names the plugin. -->
+  <PropertyGroup>
+    <AssemblyName>WeightlessAmmo</AssemblyName>
+    <Version>1.0.0</Version>
+  </PropertyGroup>
+
+</Project>
