@@ -2,10 +2,12 @@
 
 Tracks the mod's Nexus page details. Fill the id and URL after the page is created.
 
-- Mod id: TO FILL
-- URL: TO FILL
+- Mod name: Weightless Ammo
+- Mod id: 8
+- URL: https://www.nexusmods.com/thelaststandaftermath/mods/8
 - Domain: thelaststandaftermath
-- Category: TO FILL
+- Category: Miscellaneous
+- Short description: see `short-description.txt` (265 chars, under the 350 limit).
 - Requirement: BepInExPack_TheLastStandAftermath (https://www.nexusmods.com/thelaststandaftermath/mods/1)
 
 ## Permissions matrix (must match GPL-3.0)
@@ -17,5 +19,7 @@ Tracks the mod's Nexus page details. Fill the id and URL after the page is creat
 
 ## Page content
 
-- Description source: `description.bbcode` (paste into the editor's raw BBCode mode).
-- Images: upload `images/` files to the mod's images, then reference the hosted URLs in the description if needed inline.
+- Short description: `short-description.txt` (the draft-dialog field, 350-char limit).
+- Full description: `description.bbcode` (paste into the editor's raw BBCode mode).
+- Thumbnail: `images/thumbnail.jpg` (1300x372 banner). Set as the page thumbnail.
+- Gallery images: `images/01-before-vanilla-weight.jpg` and `images/02-after-weight-zero.jpg` (1920x1080 before/after pair).

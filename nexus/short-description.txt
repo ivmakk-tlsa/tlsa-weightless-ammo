@@ -1,0 +1,1 @@
+Ammo weighs 0. Grab as much as you want and it never counts against your encumbrance. Only ammo changes, so everything else keeps its normal weight. Good for loot goblins, and for stocking up before a heavy fight where every bullet counts. Requires BepInEx 6 (IL2CPP).
